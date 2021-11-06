@@ -1,0 +1,6 @@
+This repository contains R implementation of the proposed and baseline algorithms associated with the publication entitled 
+"PrognosiT: Pathway/gene set-based tumour volume prediction using multiple kernel learning", which is appearing in BMC Bioinformatics.
+
+If you use any of the algorithms implemented in this repository, please cite the following paper:
+
+Bektaş, A.B., Gönen, M. PrognosiT: Pathway/gene set-based tumour volume prediction using multiple kernel learning. BMC Bioinformatics 22, 537 (2021).
